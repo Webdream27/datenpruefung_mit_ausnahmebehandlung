@@ -1,4 +1,4 @@
-# Datenpruefung mit Ausnahmebehandlung
+# Datenprüfung mit Ausnahmebehandlung
 Python Datenprüfung mit Ausnahmebehandlung
 
 Das Skript ist ein Beispiel für Exception Handling (Ausnahmebehandlung) in Python, das die Robustheit eines Programms verbessert. Anstatt bei ungültigen Daten einfach fortzufahren, wird ein Fehler explizit signalisiert.
